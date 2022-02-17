@@ -1,0 +1,64 @@
+body {
+    font-family: sans-serif;
+}
+header {
+    color: blue;
+    padding: 5px;
+    margin: 3px;
+    border: 2px solid navy;
+    border-radius: 10px;
+}
+header a {
+    background: navy;
+    color: white;
+    text-decoration: none;
+    padding: 3px;
+    margin: 5px;
+    border-radius: 5px;
+}
+h1 {
+    color: navy;
+    background: rgb(189, 206, 255);
+    padding: 2px;
+    margin: 3px;
+    border: 2px solid navy;
+    border-radius: 10px;
+    text-align: center;
+}
+footer {
+    border-top: 3px solid navy;
+    border-bottom: 3px solid navy;
+    border-left: 6px dashed navy;
+    border-right: 6px dashed navy;
+    border-radius: 10px;
+    background: rgb(189, 206, 255);
+}    
+footer p {
+    background: white;
+    border-radius: 10px;
+    padding: 2px;
+    margin: 3px;
+}
+nav a{
+    background: navy;
+   color: white;
+    text-decoration: none;
+    padding: 3px;
+    margin: 40px;
+    border-radius: 5px;
+}
+
+nav{
+    margin: 7px;
+}
+.p {
+    color: navy;
+    background: rgb(189, 206, 255);
+    padding: 5px;
+    margin: 10px;
+    border: 2px solid navy;
+    border-radius: 10px;
+}
+h2 {
+    
+}
